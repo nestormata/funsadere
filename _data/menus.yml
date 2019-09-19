@@ -1,5 +1,13 @@
 ---
 navigation:
+- weight: 6
+  title: 'Contáctenos '
+- identifier: _contact
+  weight: 5
+  title: Galería
+- identifier: _projects
+  weight: 4
+  title: Donaciones
 - identifier: _about
   weight: 2
   title: 'Nosotros '

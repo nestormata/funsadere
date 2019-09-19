@@ -8,6 +8,7 @@ menu:
   navigation:
     identifier: _posts
     weight: 3
+    title: Proyectos
   footer:
     identifier: _posts
     weight: 2
