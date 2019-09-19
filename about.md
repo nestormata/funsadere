@@ -1,7 +1,7 @@
 ---
 title: Fundación para la salud integral, el deporte, recreación y educación
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: https://res.cloudinary.com/dh7dywhsr/image/upload/funsadere/v1568917753/Funsadere/:filename/WhatsApp_Image_2017-09-12_at_23.12.31_mcdqam.jpg
+banner_image: https://res.cloudinary.com/dh7dywhsr/image/upload/funsadere/v1568918010/Funsadere/:filename/WhatsApp_Image_2017-09-12_at_23.12.31_pnpkup.jpg
 heading: ''
 sub_heading: '"Vida a los años"'
 layout: landing-page
