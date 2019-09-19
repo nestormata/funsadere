@@ -26,10 +26,5 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
-menu:
-  navigation:
-    identifier: _about
-    weight: 2
-    title: 'Quiénes somos '
 
 ---

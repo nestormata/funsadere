@@ -1,5 +1,8 @@
 ---
 navigation:
+- identifier: _about
+  weight: 2
+  title: 'Quiénes somos '
 - identifier: _posts
   weight: 3
   title: Proyectos
