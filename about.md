@@ -1,16 +1,16 @@
 ---
-title: Acerca de
+title: Fundación para la salud integral, el deporte, recreación y educación
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: Acerca de Fundasere
-sub_heading: Ora et Labora
+heading: ''
+sub_heading: '"Vida a los años"'
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: 'Descripción '
 publish_date: '2017-12-01T04:00:00.000+00:00'
-show_staff: true
+show_staff: false
+show_news: true
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+Fundación para la salud integral, el deporte, recreación y educación (FUNSADERE), es una organización sin fines de lucro, se ha construido junto a las y los colaboradores que forman parte de ella, debido a la preocupación de la falta oportunidades que tienen las personas en riesgo social de realizar deporte y recreación, así como la incorporación de niños, jóvenes y adulto mayor a las prácticas deportivas y recreativas.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Lo que se convierte a su vez, en una respuesta integral de educación para la paz con enfoque intergeneracional hacia la problemática del aumento de violencia y uso de drogas en el país.
