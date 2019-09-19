@@ -1,5 +1,14 @@
 ---
 navigation:
+- identifier: _posts
+  weight: 3
+  title: Proyectos
+- identifier: _about
+  weight: 2
+  title: 'Quiénes somos '
+- identifier: _index
+  weight: 1
+  title: Inicio
 - weight: 6
   title: 'Contáctenos '
 - identifier: _contact
