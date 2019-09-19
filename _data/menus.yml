@@ -1,4 +1,7 @@
 ---
+footer:
+- weight: 1
+  title: Proyectos
 navigation:
 - identifier: _about
   weight: 2
