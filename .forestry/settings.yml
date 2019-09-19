@@ -5,35 +5,35 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: heading
-  label: Content
+  label: 'Contenido '
 - type: jekyll-posts
   label: Posts
   create: all
   templates:
   - post
 - type: jekyll-pages
-  label: Pages
+  label: 'Paginas '
   create: all
   templates:
   - landing-page
   - page
 - type: directory
   path: _people
-  label: People
+  label: 'Personas '
   create: all
   match: "*"
   templates:
   - person
 - type: directory
   path: _projects
-  label: Projects
+  label: Proyectos
   create: all
   match: "*"
   templates:
   - project
 - type: document
   path: _data/information.yml
-  label: Contact Information
+  label: 'Contacto '
 upload_dir: funsadere
 public_path: https://res.cloudinary.com/dh7dywhsr/image/upload/funsadere
 front_matter_path: ''
