@@ -13,10 +13,6 @@ menu:
   footer:
     weight: 3
     title: Proyectos
-  navigation:
-    identifier: _posts
-    weight: 3
-    title: Proyectos
 
 ---
 Grady Nerio joined the Belkirk Board in 2015.

@@ -13,10 +13,6 @@ menu:
   footer:
     weight: 2
     title: 'Quienes somos '
-  navigation:
-    identifier: _index
-    weight: 1
-    title: Inicio
 published: false
 
 ---
