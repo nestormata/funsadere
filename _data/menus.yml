@@ -1,7 +1,4 @@
 ---
-footer:
-- weight: 1
-  title: Proyectos
 navigation:
 - identifier: _posts
   weight: 3
