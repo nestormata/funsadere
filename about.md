@@ -16,7 +16,7 @@ menu:
     title: 'Quiénes somos '
   footer:
     weight: 2
-    title: 'Quienes somos '
+    title: 'Quiénes somos '
 published: false
 
 ---
