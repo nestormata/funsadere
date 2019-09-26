@@ -6,12 +6,8 @@ footer:
   title: Donaciones
 - weight: 4
   title: Galería
-- weight: 3
-  title: Proyectos
 - weight: 1
   title: 'Inicio '
-- weight: 2
-  title: 'Quienes somos '
 navigation:
 - weight: 6
   title: 'Contáctenos '
