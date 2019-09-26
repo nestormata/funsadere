@@ -1,5 +1,7 @@
 ---
 footer:
+- weight: 2
+  title: 'Quiénes somos '
 - weight: 6
   title: 'Contáctenos '
 - weight: 5

@@ -14,9 +14,6 @@ menu:
     identifier: _about
     weight: 2
     title: 'Quiénes somos '
-  footer:
-    weight: 2
-    title: 'Quiénes somos '
 published: false
 
 ---
