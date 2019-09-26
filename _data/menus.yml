@@ -1,4 +1,7 @@
 ---
+footer:
+- weight: 2
+  title: 'Nosotros '
 navigation:
 - identifier: _posts
   weight: 3
