@@ -9,11 +9,6 @@ sub_heading: Co-fundador
 email: nestoredgar@gmail.com
 linkedin: ''
 layout: person
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
-    title: Inicio
 
 ---
 Grady Nerio joined the Belkirk Board in 2015.
