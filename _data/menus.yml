@@ -7,20 +7,17 @@ footer:
 - weight: 4
   title: Galería
 navigation:
-- identifier: _about
-  weight: 2
-  title: 'Quiénes somos '
 - identifier: _index
   weight: 1
   title: Inicio
 - identifier: _posts
-  weight: 3
+  weight: 2
   title: Proyectos
-- weight: 6
+- weight: 5
   title: 'Contáctenos '
 - identifier: _contact
-  weight: 4
+  weight: 3
   title: Galería
 - identifier: _projects
-  weight: 5
+  weight: 4
   title: Donaciones
