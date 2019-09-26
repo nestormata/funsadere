@@ -13,9 +13,6 @@ footer:
 - weight: 2
   title: 'Quienes somos '
 navigation:
-- identifier: _posts
-  weight: 3
-  title: Proyectos
 - weight: 6
   title: 'Contáctenos '
 - identifier: _contact
