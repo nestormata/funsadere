@@ -10,6 +10,10 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 show_news: true
 menu:
+  navigation:
+    identifier: _about
+    weight: 2
+    title: 'Quiénes somos '
   footer:
     weight: 2
     title: 'Quienes somos '

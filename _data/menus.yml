@@ -7,9 +7,6 @@ footer:
 - weight: 4
   title: Galería
 navigation:
-- identifier: _about
-  weight: 2
-  title: 'Quiénes somos '
 - identifier: _index
   weight: 1
   title: Inicio
