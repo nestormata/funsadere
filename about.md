@@ -9,11 +9,6 @@ textline: 'Descripción '
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 show_news: true
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
-    title: Inicio
 published: false
 
 ---

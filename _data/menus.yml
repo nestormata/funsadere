@@ -1,5 +1,7 @@
 ---
 footer:
+- weight: 1
+  title: 'Inicio '
 - weight: 2
   title: 'Quienes somos '
 navigation:
