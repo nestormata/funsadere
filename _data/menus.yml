@@ -1,16 +1,18 @@
 ---
 footer:
-- weight: 2
-  title: 'Quienes somos '
 - weight: 6
   title: 'Contáctenos '
 - weight: 5
   title: Donaciones
 - weight: 4
   title: Galería
-- weight: 1
-  title: 'Inicio '
 navigation:
+- identifier: _about
+  weight: 2
+  title: 'Quiénes somos '
+- identifier: _index
+  weight: 1
+  title: Inicio
 - identifier: _posts
   weight: 3
   title: Proyectos
