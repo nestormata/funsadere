@@ -1,7 +1,7 @@
 ---
 footer:
 - weight: 2
-  title: 'Nosotros '
+  title: 'Quienes somos '
 navigation:
 - identifier: _posts
   weight: 3
