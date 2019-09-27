@@ -1,5 +1,5 @@
 ---
-title: FUNSADERE
+title: 'Quiénes somos '
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: ''
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Fundación para la salud, deporte, recreación y educación
+sub_heading: ''
 textline: 'Descripción '
 hero_button:
   text: Learn more
