@@ -10,6 +10,10 @@ email: nestoredgar@gmail.com
 linkedin: ''
 layout: person
 menu:
+  navigation:
+    identifier: _contact
+    weight: 4
+    title: Galería
   footer:
     weight: 3
     title: Proyectos

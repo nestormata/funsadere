@@ -17,9 +17,6 @@ navigation:
   title: Proyectos
 - weight: 6
   title: 'Contáctenos '
-- identifier: _contact
-  weight: 4
-  title: Galería
 - identifier: _projects
   weight: 5
   title: Donaciones
