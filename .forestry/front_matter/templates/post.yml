@@ -40,5 +40,5 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/Visión.md
+- _posts/2019-10-04-Visión.md
 - _posts/Misión.md
