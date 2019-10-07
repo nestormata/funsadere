@@ -1,5 +1,5 @@
 ---
-title: 'Quiénes somos '
+title: Fundación para la salud integral, el deporte, recreación y educación.
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: ''
