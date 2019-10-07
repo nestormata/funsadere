@@ -1,5 +1,5 @@
 ---
-title: 'FUNSADERE '
+title: Fundación para la salud integral, el deporte, recreación y educación.
 layout: posts
 sub_heading: ''
 description: Articles by Belkirk College
