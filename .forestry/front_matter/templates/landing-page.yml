@@ -79,5 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
-- visión.md
 - index.md
+- visión.md
