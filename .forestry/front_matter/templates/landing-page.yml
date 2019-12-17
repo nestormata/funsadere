@@ -80,4 +80,5 @@ fields:
   default: home
 pages:
 - index.md
+- misión.md
 - visión.md
